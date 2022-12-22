@@ -1,5 +1,5 @@
 # landing-page
-This is an assignment using The Odin Project I try to make a homepage using the box models that I have learned about previously. 
+This is an assignment using The Odin Project, where I try to make a homepage using the box model that I have learned about previously. 
 The following links are the design layout and color and fonts that I will be needing to use for this homepage to function. I will be
 using HTML and CSS for this:
 
