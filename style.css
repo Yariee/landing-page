@@ -1,9 +1,27 @@
 body {
     display: flex;
+    margin: 0;
 }
 
 .header {
     display: flex;
     width: 100%;
+    height: 400px;
     justify-content: space-between;
+    background-color: #1F2937;
+    padding: 6px;
+}
+
+.left-header-links a {
+    text-decoration: none;
+    color: #F9FAF8;
+    padding-left: 40px;
+    font-size: 24px;
+}
+
+.right-header-links a {
+    text-decoration: none;
+    color: #E5E7EB;
+    font-size: 18px;
+    padding-right: 15px;
 }
