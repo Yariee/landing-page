@@ -126,3 +126,28 @@ b {
     padding-right: 200px;
     font-size: 20px;
 }
+
+.sign-up {
+    display: flex;
+    background-color: white;
+    align-items: center;
+    justify-content: center;
+}
+
+.sign-up-content-text {
+    flex: 1;
+    text-align: left;
+    font-size: 20px;
+    background-color: #3882F6;
+    margin: 50px 20px;
+    padding: 10px 80px;
+    border-radius: 5px;
+}
+
+.sign-up-content-text p {
+    margin: 0;
+}
+
+.sign-up-button {
+    flex: 1;
+}
