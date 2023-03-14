@@ -63,7 +63,7 @@ a:active {text-decoration: none; color: #E5E7EB;}
     margin: 0;
 }
 
-button {
+.content-text button {
     display: block;
     text-align: center;
     width: 100px;
@@ -128,26 +128,29 @@ b {
 }
 
 .sign-up {
-    display: flex;
     background-color: white;
+    display: flex;
     align-items: center;
     justify-content: center;
+    color: #1F2937;
 }
 
-.sign-up-content-text {
-    flex: 1;
-    text-align: left;
-    font-size: 20px;
+.sign-up-text {
     background-color: #3882F6;
-    margin: 50px 20px;
-    padding: 10px 80px;
+    color: white;
+    margin: 20px;
     border-radius: 5px;
+    padding: 10px;
+    font-size: 15px;
+    display: flex;
+    flex-direction: column;
 }
 
-.sign-up-content-text p {
-    margin: 0;
-}
-
-.sign-up-button {
-    flex: 1;
+.footer {
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    font-size: 25px;
+    color: white;
 }
