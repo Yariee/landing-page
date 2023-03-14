@@ -87,4 +87,8 @@ button {
     display: flex;
     justify-content: center;
     text-align: center;
+    background-color: white;
+    font-size: 25px;
+    color: #1F2937;
+    font-weight: bolder;
 }
