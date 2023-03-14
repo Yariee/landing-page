@@ -96,14 +96,15 @@ button {
 
 .random-info-tabs {
     display: flex;
-}
-
-.milo {
     justify-content: center;
-    text-align: center;
+    gap: 50px;
 }
 
-.milo img {
+.random-info-tabs img {
     width: 200px;
     height: 175px;
+    object-fit: cover;
+    border: 4px solid #3882F6;
+    border-radius: 10px;
+    margin: 5px 20px 0px 20px;
 }
