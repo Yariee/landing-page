@@ -26,6 +26,7 @@ body {
     gap: 50px;
     font-size: 18px;
     color: #E5E7EB;
+    opacity: 0.8;
 }
 
 /* Below helps remove the purple underline when visiting links */
@@ -38,6 +39,46 @@ a:active {text-decoration: none; color: #E5E7EB;}
     display: flex;
     align-items: center;
     justify-content: center;
-    color: #F9FAF8;
+    margin: 50px;
 }
 
+.content-text {
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+    margin-right: 50px;
+}
+
+.content-text h1 {
+    font-size: 48px;
+    color: #F9FAF8;
+    font-weight: bolder;
+    margin: 0;
+}
+
+.content-text p {
+    font-size: 18px;
+    color: #E5E7EB;
+    opacity: 0.8;
+    margin: 0;
+}
+
+button {
+    display: block;
+    text-align: center;
+    width: 100px;
+    border: none;
+    background-color: #3882F6;
+    padding: 10px;
+    border-radius: 10px;
+    color: #F9FAF8;
+    text-decoration: none;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.content-image {
+    display: flex;
+    width: 400px;
+    height: 300px;
+}
