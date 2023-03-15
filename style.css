@@ -146,6 +146,12 @@ b {
     flex-direction: column;
 }
 
+.sign-up-button button {
+    background-color: #3882F6;
+    border-radius: 5px;
+    color: white;
+}
+
 .footer {
     left: 0;
     bottom: 0;
