@@ -9,4 +9,4 @@ Design color and fonts: https://cdn.statically.io/gh/TheOdinProject/curriculum/8
 
 Languages used: HTML, CSS.
 
-To view a live demo of the webpage visit: yariee.github.io/landing-page
+To view a live demo of the webpage visit: https://yariee.github.io/landing-page/
